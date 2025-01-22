@@ -5,63 +5,63 @@ document.addEventListener('DOMContentLoaded', function() {
             graduationYear: 2015,
             jobTitle: "Software Engineer",
             company: "Facebook Inc.",
-            photo: "images/person1.jpg"
+            photo: "person1.jpg"
         },
         {
             name: "Mike Pencerno",
             graduationYear: 2018,
             jobTitle: "Marketing Manager",
             company: "Microsoft Corp.",
-            photo: "images/person2.jpg"
+            photo: "person2.jpg"
         },
         {
             name: "Brandon Cooper",
             graduationYear: 2010,
             jobTitle: "Financial Analyst",
             company: "Goldman Sachs",
-            photo: "images/person3.jpg"
+            photo: "person3.jpg"
         },
         {
             name: "Rishi Sharma",
             graduationYear: 2020,
             jobTitle: "UI and UX Designer",
             company: "Apple Inc.",
-            photo: "images/person4.jpg"
+            photo: "person4.jpg"
         },
         {
             name: "David Wilson",
             graduationYear: 2012,
             jobTitle: "Project Manager",
             company: "Netflix Inc.",
-            photo: "images/person5.jpg"
+            photo: "person5.jpg"
         },
         {
             name: "Mathew Wossen",
             graduationYear: 1984,
             jobTitle: "Data Scientist",
             company: "Nvidia Corp.",
-            photo: "images/person6.jpg"
+            photo: "person6.jpg"
         },
         {
             name: "Joshua Thompson",
             graduationYear: 2008,
             jobTitle: "Product Manager",
             company: "Google Inc.",
-            photo: "images/person7.jpg"
+            photo: "person7.jpg"
         },
         {
             name: "Sophia Rodriguez",
             graduationYear: 2016,
             jobTitle: "HR Specialist",
             company: "Google Inc.",
-            photo: "images/person8.jpg"
+            photo: "person8.jpg"
         },
         {
             name: "Andrew Parker",
             graduationYear: 2014,
             jobTitle: "Cybersecurity Analyst",
             company: "Microsoft Corp.",
-            photo: "images/person9.jpg"
+            photo: "person9.jpg"
         }
     ];
 
